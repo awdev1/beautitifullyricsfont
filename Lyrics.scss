@@ -1,10 +1,11 @@
 // Handle importing the MacOS Blink font so that every platform has the same font no matter what
 // Temporary patch to this github repo (https://awdev1.github.io/beautitifullyricsfont/) for the font, to be taken down at authors request if so
+
 @font-face {
 	font-family: "BeautifulLyrics";
 	font-weight: 400;
 	src:
-		url("https://awdev1.github.io/beautitifullyricsfont/LyricsRegular.woff2")
+		url("https://cdn.jsdelivr.net/gh/awdev1/beautitifullyricsfont/LyricsRegular.woff2")
 		format("woff2");
 	
 }
@@ -13,7 +14,7 @@
 	font-family: "BeautifulLyrics";
 	font-weight: 500;
 	src:
-		url("https://awdev1.github.io/beautitifullyricsfont/LyricsMedium.woff2")
+		url("https://cdn.jsdelivr.net/gh/awdev1/beautitifullyricsfont/LyricsMedium.woff2")
 		format("woff2");
 }
 
@@ -21,7 +22,7 @@
 	font-family: "BeautifulLyrics";
 	font-weight: 600;
 	src:
-		url("https://awdev1.github.io/beautitifullyricsfont/LyricsSemibold.woff2")
+		url("https://cdn.jsdelivr.net/gh/awdev1/beautitifullyricsfont/LyricsSemibold.woff2")
 		format("woff2");
 }
 
@@ -29,7 +30,7 @@
 	font-family: "BeautifulLyrics";
 	font-weight: 700;
 	src:
-		url("https://awdev1.github.io/beautitifullyricsfont/LyricsBold.woff2")
+		url("https://cdn.jsdelivr.net/gh/awdev1/beautitifullyricsfont/LyricsBold.woff2")
 		format("woff2");
 }
 
