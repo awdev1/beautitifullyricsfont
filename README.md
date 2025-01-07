@@ -31,7 +31,7 @@ Step 7: Type `deno i` and wait, then type in deno run test --port=8080
 ![image](https://github.com/user-attachments/assets/da3932c0-6abf-4433-96ec-ce1a2f12ab3f)
 
 
-Step 8: Your Spotify should restart and thats it!
+Step 8: Your Spotify should restart and thats it! Be sure to keep the command prompt open!
 
 
 
