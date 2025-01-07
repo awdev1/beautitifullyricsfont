@@ -25,9 +25,12 @@ beautiful-lyrics\Source\Stylings and paste the file there
 ![step5](https://github.com/user-attachments/assets/1468e9de-3cab-4f80-9594-59036ba0ca88)
 
 Step 6: Go back to the Beautiful Lyrics base folder, open command prompt, and navigate to the folder there
+
 ![step5](https://github.com/user-attachments/assets/67256a18-54a2-4805-94b0-d25e0c597502)
 
 Step 7: Type `deno i` and wait, then type in deno run test --port=8080
+![image](https://github.com/user-attachments/assets/da3932c0-6abf-4433-96ec-ce1a2f12ab3f)
+
 
 Step 8: Your Spotify should restart and thats it!
 
