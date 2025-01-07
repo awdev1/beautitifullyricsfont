@@ -12,7 +12,6 @@ Step 3: Copy the command with the copy button, open "Windows PowerShell", paste 
 ![step3](https://github.com/user-attachments/assets/33e3c63b-06bd-4c8b-b4ad-63cdaf3d4502)
 
 Step 4: Extract the zip file you downloaded in this case my GitHub folder
-![image](https://github.com/user-attachments/assets/94d63ef5-8371-4f7d-b416-e46f6f840438)
 
 Step 5: Go here to download the Font file "Lyrics.scss", Click on the file and press CTRL + C 
 https://github.com/awdev1/beautitifullyricsfont/releases/tag/patch
